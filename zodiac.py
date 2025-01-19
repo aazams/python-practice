@@ -9,4 +9,4 @@ birth_date = int(input())
 
 result = calculate_zodiac(birth_month, birth_date)
 
-print("You are a " + result)
+print(f"You are a  {result})
