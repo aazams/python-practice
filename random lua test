@@ -1,0 +1,21 @@
+UserInputService = game:GetService("UserInputService")
+
+if game.Workspace.Aazam28.Anchored = false then
+    game.Player.Aazam28:Kick("test")
+    game.Workspace.Aazam28:Destroy()
+end
+
+local function = hello()
+    if game.Workspace.Aazam28.HumanoidRootPart.Anchored = false then
+        game.Player.Aazam28:Kick("dont exploit - auto anticheat detection ")
+        game.Workspace.Aazam28:Destroy()
+        print("Aazam28 has been kicked for exploiting")
+end
+
+
+if 5^2 = 25 then
+    hello()
+end
+
+if InputBegan == Enum.Keycode.Delete then
+    game.Workspace.Aazam28:Destroy()
